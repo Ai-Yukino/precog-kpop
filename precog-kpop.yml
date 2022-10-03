@@ -1,0 +1,7 @@
+name: precog-kpop
+channels:
+  - conda-forge
+dependencies:
+  - python=3.10.6
+  - jupyterlab=3.4.7
+  - bs4=4.11.1
